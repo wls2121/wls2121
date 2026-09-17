@@ -9,8 +9,8 @@ Most of what I've actually coded lives in private company repos (e.g. [@wlsdbt](
 What's public:
 
 [sales-harness](https://github.com/wls2121/sales-harness
-) — agent definitions and hard-won rules from a sales AI stack running a small team in production. The lessons file is the part worth reading: things I got wrong reading sales data with an LLM, and the rule each one produced.
+) — agent definitions from my homegrown AI stack running a small team in production.
 
-[explainers](https://wls2121.github.io/explainers/index.html) — diagrams and short write-ups of whatever I'm working out.
+[explainers](https://wls2121.github.io/explainers/index.html) — diagrams and short write-ups of assorted conceptual topics.
 
 [LinkedIn](https://www.linkedin.com/in/will-stamatis/)
