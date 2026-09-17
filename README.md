@@ -1,6 +1,6 @@
 ## Will Stamatis
 
-Equal parts athlete, math nerd, and theater kid. My career through 2026 has roughly been 5 years teaching, then 5 scaling EdTech orgs, then 5 building and operating open-source tech. (I picked up a M.S. in Analytics and dbt Developer certification along the way)
+Equal parts athlete, math nerd, and theater kid. My career through 2026 has roughly been 5 years teaching, then 5 scaling EdTech orgs, then 5 building and operating open-source tech. (Grabbed my masters in Analytics and my dbt Developer certification along the way)
 
 No matter the industry, I've always found ways to dogfood what I'm selling, be it the AI workflows below, or the custom Anki decks I built for my students back in 2014.
 
